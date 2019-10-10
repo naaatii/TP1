@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Geometria', sans-serif;
+}
+
+.select{
+  
+  border-radius: 15px;
+  width: 22%;
+  overflow: hidden;
+  padding: 12px 10px;
+  margin-left: -12%;
+  margin-top: 3%;
+  box-shadow: 3px 3px 12px grey;
+}
+
+.select:hover{
+  opacity: 0.7;
+  color: #509FE5;
+}
